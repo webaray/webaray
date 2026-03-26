@@ -1,31 +1,5 @@
 # 💫 About Me:
-I’m a passionate developer focused on building modern, user-friendly web applications.
-Currently working on improving my skills in both frontend and full-stack development, while also exploring CMS-based solutions.
-
-I enjoy turning ideas into real projects and continuously learning new technologies to grow in this field.
-
-🔽 What I’m working with:
-
-MERN Stack
-Frontend Development
-JavaScript
-React
-Next.js
-MongoDB
-WordPress
-Wix
-Shopify
-
-🔽 What I focus on:
-
-Building responsive and clean UI
-Writing maintainable and scalable code
-Understanding real-world project structure
-Continuous learning and improvement
-
-🔽 Current Goal:
-
-To become a skilled full-stack developer and build impactful real-world applications
+I’m a passionate developer focused on building modern, user-friendly web applications.<br>Currently working on improving my skills in both frontend and full-stack development, while also exploring CMS-based solutions.<br><br>I enjoy turning ideas into real projects and continuously learning new technologies to grow in this field.<br><br>🔽 What I’m working with:<br><br>🔸MERN Stack<br>🔸Frontend Development<br>🔸JavaScript<br>🔸React<br>🔸Next.js<br>🔸MongoDB<br>🔸WordPress<br>🔸Wix<br>🔸Shopify<br><br>🔽 What I focus on:<br><br>🔸Building responsive and clean UI<br>🔸Writing maintainable and scalable code<br>🔸Understanding real-world project structure<br>🔸Continuous learning and improvement<br><br>🔽 Current Goal:<br><br>✓ To become a skilled full-stack developer and build impactful real-world applications
 
 
 ## 🌐 Socials:
